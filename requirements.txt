@@ -1,6 +1,5 @@
 selenium~=4.33.0
 webdriver-manager~=4.0.2
 pytest~=8.4.1
-openpyxl~=3.2.0b1
 pages~=0.3
 utils~=1.0.2
